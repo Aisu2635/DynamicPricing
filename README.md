@@ -55,6 +55,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [your name] at [your email address].
+For any questions or inquiries, please contact Om Hinge at iam.acekiller.om@gmail.com
 
 That's just a basic template for an interactive README.md file. Feel free to modify it according to your needs and add more details about your project.

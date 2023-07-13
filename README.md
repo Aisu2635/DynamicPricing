@@ -16,7 +16,7 @@ To run the project, you need to have Python and the required libraries installed
    pip install pandas scikit-learn tkinter
    ```
 
-3. Run the `main.py` file to start the application.
+3. Run the `TFI.py` file to start the application.
 
 ## ✨ Features
 

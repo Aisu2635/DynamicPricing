@@ -28,7 +28,7 @@ To run the project, you need to have Python and the required libraries installed
 
 ## 💻 Usage
 
-1. Launch the application by running the `main.py` file.
+1. Launch the application by running the `TFI.py` file.
 2. The main screen will appear with a welcome message and a start button.
 3. Click the "Start!" button to proceed.
 4. A new window will open, prompting you to enter the quantities sold for Samosa and Vadapav.

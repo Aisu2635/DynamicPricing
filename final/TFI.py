@@ -142,8 +142,7 @@ def mainscreen():
     Button2 = Button(C, bg="#c1976d", text="Settings", font="Times 25", relief="raised")
     Button2.place(relx=0.5, rely=0.65, anchor=CENTER)
 
-    acc = Label(C, relief="groove", bg="#c1976d", text="Made by:  COMP 18 Aditya Borkar | COMP 52 Om Hinge | "
-                                                       "CSE 65 Omkar | ENTC 66 Arjun ", font="Times 15")
+    acc = Label(C, relief="groove", bg="#c1976d", text="Made by:  Om Hinge", font="Times 15")
     acc.place(relx=0.5, rely=0.9, anchor=CENTER)
 
     C.pack()
